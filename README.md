@@ -23,7 +23,7 @@ This repository contains multiple Spring Boot learning projects that I have work
      - **Spring MVC:** Implementation of Model-View-Controller pattern for handling user requests and rendering views.
      - **Spring Data JPA:** Data persistence using JPA for managing Todo tasks.
      - **Features:** Users can create, update, delete, and view Todo tasks, with secured login and session management.
-     - 
+
 ### 5. **rest-full-webservices**
    - **Description:** A project focused on creating RESTful web services with Spring Boot.
    - **Focus Areas:** REST API design, Controllers, Request/Response handling, etc.
